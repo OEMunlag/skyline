@@ -1,4 +1,4 @@
-name: CIe
+name: CI
 
 on: [push, pull_request]
 
